@@ -29,6 +29,7 @@ Thumbs.db
 # Environment
 .env
 .env.*
+!.env.example
 
 # Vendor (optional - we use modules)
 # /vendor/
